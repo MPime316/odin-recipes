@@ -1,1 +1,1 @@
-# odin-recipes
+This project will have a main index page with several links to recipes online. Hope you like cooking! I will have use the html skills I have learned throughout this course to make the page.
